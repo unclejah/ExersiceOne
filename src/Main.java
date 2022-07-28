@@ -2,7 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
         //ExersiceOne
-        //step2
+        //step 2
     }
 
 }
